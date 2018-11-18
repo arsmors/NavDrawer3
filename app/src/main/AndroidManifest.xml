@@ -21,7 +21,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TopActivity"></activity>
+        <activity android:name=".TopActivity" />
+        <activity android:name=".TopResultActivity"></activity>
     </application>
 
 </manifest>
